@@ -1,0 +1,68 @@
+Course ID : CSC10001
+Course Name : Introduction to Programming
+--- Student 1 : ---
+25125031
+Hoang Thien Nhan
+32.00
+KDC Trung Son
+2007 - 10 - 05 
+--- Student 2 : ---
+25125010
+Bao Duong
+2385.00
+KDC Trung Lao
+2007 - 06 - 06 
+--- Student 3 : ---
+19125095
+Ta Heo
+3214.00
+KDC Him Lam
+2006 - 02 - 05 
+------------------
+Course ID : CSC10001
+Course Name : Introduction to Programming
+--- Student 1 : ---
+25125031
+Hoang Thien Nhan
+32.00
+KDC Trung Son
+2007 - 10 - 05 
+--- Student 2 : ---
+25125010
+Bao Duong
+2385.00
+KDC Trung Lao
+2007 - 06 - 06 
+--- Student 3 : ---
+19125095
+Ta Heo
+3214.00
+KDC Him Lam
+2006 - 02 - 05 
+--- Student 4 : ---
+1420252
+Hoang Thoi Ngu
+123124.00
+Dong Ha
+2000 - 10 - 10 
+------------------
+Course ID : CSC10001
+Course Name : Introduction to Programming
+--- Student 1 : ---
+25125031
+Hoang Thien Nhan
+32.00
+KDC Trung Son
+2007 - 10 - 05 
+--- Student 2 : ---
+25125010
+Bao Duong
+2385.00
+KDC Trung Lao
+2007 - 06 - 06 
+--- Student 3 : ---
+1420252
+Hoang Thoi Ngu
+123124.00
+Dong Ha
+2000 - 10 - 10 

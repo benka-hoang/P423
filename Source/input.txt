@@ -1,0 +1,24 @@
+CSC10001
+Introduction to Programming
+3
+25125031
+Hoang Thien Nhan
+32
+KDC Trung Son
+2007 10 05
+25125010
+Bao Duong
+2385
+KDC Trung Lao
+2007 06 06
+19125095
+Ta Heo
+3214
+KDC Him Lam
+2006 02 05
+2 6
+1420252
+Hoang Thoi Ngu
+123124
+Dong Ha
+2000 10 10
